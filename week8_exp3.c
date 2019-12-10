@@ -1,9 +1,5 @@
 #include <stdio.h>
 
-//iki sayiyi degistiren fonksiyon
-//sayi1 i sayi2 ye atýyor, sayi2 yi sayi1 e atýyor.
-
-
 void swap(int *n1, int *n2);
 
 int main()
